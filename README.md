@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Miguel Santana Dias!
 
-<!--
-**miguelssdias/miguelssdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interessado em desenvolver soluções inovadoras e bem estruturadas na área de tecnologia. Tenho experiência acadêmica e prática com desenvolvimento de software, banco de dados e criação de interfaces web, sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação.
 
-Here are some ideas to get you started:
+Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Sul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+☕ Java
+🗄️ SQL / Banco de Dados Relacionais
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🔧 Git/GitHub
+🧱 Programação Orientada a Objetos (POO)
+
+## 📚 Atualmente estudando
+
+Redes de Computadores
+Desenvolvimento Full Stack
+Inteligência Artificial aplicada a projetos
+Boas práticas de programação
+Front-End e Back-End
+Banco de Dados e Engenharia de Software
+
+## 🎯 Objetivo
+
+Buscando crescimento profissional e minha oportunidade no mercado de desenvolvimento de software, com foco em aprender continuamente, contribuir com projetos relevantes e evoluir na área de Tecnologia da Informação.
+
