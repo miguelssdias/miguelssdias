@@ -2,7 +2,8 @@
 
 Interessado em desenvolver soluções inovadoras e bem estruturadas na área de tecnologia. Tenho experiência acadêmica e prática com desenvolvimento de software, banco de dados e criação de interfaces web, sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Sul.
+🎓 Formação: Técnico em Informática para Internet
+Atualmente curso superior em Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Sul
 
 ## 🚀 Tecnologias e Ferramentas
 
